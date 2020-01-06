@@ -29,6 +29,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/service001/src/main/java/com/example/demo/service" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../generatorConfig-master/generator/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -167,22 +168,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="501" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1578299925803" />
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1578305319048">
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1578309506379">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578305319048" />
-    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1578305319048">
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578309506379" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1578309506379">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1578305319048" />
-    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1578305319048">
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1578309506379" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1578309506379">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1578305319048" />
-    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1578305319048">
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1578309506379" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1578309506379">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1578305319048" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1578309506379" />
     <state width="1398" height="202" key="GridCell.Tab.1.bottom" timestamp="1578305374757">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -199,6 +200,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1398" height="202" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1578305374756" />
+    <state x="222" y="74" key="SettingsEditor" timestamp="1578309352561">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1578309352561" />
     <state x="535" y="209" key="chooseDestDirectoryDialog" timestamp="1578300360951">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
